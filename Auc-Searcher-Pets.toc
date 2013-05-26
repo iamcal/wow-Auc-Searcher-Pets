@@ -1,0 +1,11 @@
+## Interface: 50300
+## Title: Auc:Searcher:Pets
+## Notes: Find missing pets
+## Author: Cal Henderson (Bees on Hyjal-US)
+## Version: 1.0
+## LoadOnDemand: 0
+## Disabled: 0
+## Dependencies: Auc-Advanced
+
+Auc-Searcher-Pets.xml
+Auc-Searcher-Pets.lua
